@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Xiangjun Tang, a Ph.D. candidate advised by Professor Xiaogang Jin at CAD&CG state key lab of Zhejiang University in Hangzhou. 
+I am Xiangjun Tang, a Ph.D. candidate advised by Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/) at CAD&CG state key lab of Zhejiang University in Hangzhou. 
 
 - My research interests lie in **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my personal website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
 
