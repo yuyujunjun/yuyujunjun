@@ -18,7 +18,7 @@ I am Xiangjun Tang, a Ph.D. candidate advised by Professor [Xiaogang Jin](http:/
 
 - My research interests lie in **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my personal website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
 
-- Aside from academic pursuits, I have a fondness for writing, including travelogues, essays, and martial arts novels.. 
-<font color=gray> Although I have not found the time to write recently, you can find some of my work on my website. </font>
+- Aside from academic pursuits, I have a fondness for writing, including travelogues, essays, and martial arts novels. 
+<font color=gray> Although I have not had the time to write recently, you can view some of my previous work on my website. </font>
 
 - 💬 If you have any questions for me or wish to get in touch, feel free to reach me at xiangjun.tang@outlook.com or fcsx1tf@163.com.
