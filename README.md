@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 I am Xiangjun Tang, a Ph.D. candidate advised by Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/) at CAD&CG state key lab of Zhejiang University in Hangzhou. 
 
-- My research interests lie in **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my personal website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
+**I am expected to graduate in June 2024 and I am looking for a post-doc position.**
 
-- Aside from academic pursuits, I have a fondness for writing, including travelogues, essays, and martial arts novels. 
-<font color=gray> Although I have not had the time to write recently, you can view some of my previous work on my website. </font>
+- 😄 My research interests lie in **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
 
-- 💬 If you have any questions for me or wish to get in touch, feel free to reach me at xiangjun.tang@outlook.com or fcsx1tf@163.com.
+- ⚡ Aside from academic pursuits, I like writing, including travelogues, essays, and martial arts novels.
+
+    <font color=gray> _Although I have not had the time to write recently, you can read some of my previous work on my website._ </font>
+
+- 💬 If you have any questions or wish to get in touch, feel free to reach me at xiangjun.tang@outlook.com or fcsx1tf@163.com.
