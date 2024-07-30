@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Xiangjun Tang, a Ph.D. candidate advised by Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/) at CAD&CG state key lab of Zhejiang University in Hangzhou. 
+I am Xiangjun Tang. I got my PhD degree in 2024, advised by Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/) at CAD&CG state key lab of Zhejiang University in Hangzhou. 
 
 **I am expected to graduate in June 2024 and I am looking for a post-doc position.**
 
