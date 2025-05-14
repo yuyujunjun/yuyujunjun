@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Xiangjun Tang. I got my PhD degree in 2024, advised by Professor [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/) at CAD&CG state key lab of Zhejiang University in Hangzhou. 
 
 
-- 😄 My research interests lie in **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
+- 😄 My research interests lie in **3d generation**, **motion generation**, **portrait editing**, and **virtual reality**. You can learn more about my work on my website: [yuyujunjun.github.io](https://yuyujunjun.github.io/).
 
 - ⚡ Aside from academic pursuits, I like writing, including travelogues, essays, and martial arts novels.
 
